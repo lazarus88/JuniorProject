@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pataraapi", "pataraapi\pataraapi.csproj", "{ACD8DA03-BD83-4880-B635-08C16066A463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD8DA03-BD83-4880-B635-08C16066A463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD8DA03-BD83-4880-B635-08C16066A463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD8DA03-BD83-4880-B635-08C16066A463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD8DA03-BD83-4880-B635-08C16066A463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDA206C6-BDD2-449A-9FA0-6A15069E140F}
+	EndGlobalSection
+EndGlobal

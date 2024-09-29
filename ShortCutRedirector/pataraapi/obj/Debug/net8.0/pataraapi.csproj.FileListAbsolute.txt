@@ -1,0 +1,17 @@
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\bin\Debug\net8.0\pataraapi.exe
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\bin\Debug\net8.0\pataraapi.deps.json
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\bin\Debug\net8.0\pataraapi.runtimeconfig.json
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\bin\Debug\net8.0\pataraapi.dll
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\bin\Debug\net8.0\pataraapi.pdb
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\bin\Debug\net8.0\RestSharp.dll
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\obj\Debug\net8.0\pataraapi.csproj.AssemblyReference.cache
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\obj\Debug\net8.0\pataraapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\obj\Debug\net8.0\pataraapi.AssemblyInfoInputs.cache
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\obj\Debug\net8.0\pataraapi.AssemblyInfo.cs
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\obj\Debug\net8.0\pataraapi.csproj.CoreCompileInputs.cache
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\obj\Debug\net8.0\pataraapi.csproj.Up2Date
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\obj\Debug\net8.0\pataraapi.dll
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\obj\Debug\net8.0\refint\pataraapi.dll
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\obj\Debug\net8.0\pataraapi.pdb
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\obj\Debug\net8.0\pataraapi.genruntimeconfig.cache
+C:\Users\Lazare\source\repos\pataraapi\pataraapi\obj\Debug\net8.0\ref\pataraapi.dll
